@@ -1,0 +1,74 @@
+body {
+    margin: 0%;
+    background-color: #DDA0DD;
+}
+
+h1 {
+    color: black;
+    border: solid 18px;
+    text-align: center;
+    margin-top: 0%;
+    font-size: 150px;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 102px;
+}
+
+p {
+    font-size: 30px;
+    display: block;
+    text-align: center;
+    margin: 10px 50px 20px;
+    color: #000000;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.Anubis {
+    width: 40%;
+    height: 35%;
+    Display: inline-block;
+    margin-left: 4%;
+}
+
+.Anu {
+    width: 40%;
+    height: 35%;
+    Display: inline-block;
+    margin-left: 10%;
+}
+.Anub {
+    width: 40%;
+    height: 35%;
+    Display: inline-block;
+    margin-left: 4%;
+}
+.Anubi {
+    width: 40%;
+    height: 40%;
+    Display: inline-block;
+    margin-left: 10%;
+}
+.email {
+    font-size: 20px;
+    display: block;
+    color: #FFC0CB;
+    background-color: #4B0082;
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 40%;
+    border-radius: 5%;
+    transition-duration: 2s;
+  margin-bottom: 40%;
+
+}
+
+.email:hover {
+    background-color: #00008B;
+    color: #98FB98;
+    border-radius: 50%;
+}
+
+.email:active {
+    color: #98FB98;
+    font-size: 80px;
+}
